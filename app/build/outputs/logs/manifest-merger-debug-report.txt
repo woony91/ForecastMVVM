@@ -1,0 +1,333 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.xwray:groupie-kotlin-android-extensions:2.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/5a3cc31b9aa53dfa7d43b7be839942fe/jetified-groupie-kotlin-android-extensions-2.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [org.kodein.di:kodein-di-framework-android-x:5.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/ec0398c18fa45a1886ba8591967ca6d0/jetified-kodein-di-framework-android-x-5.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [org.kodein.di:kodein-di-framework-android-core:5.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/28b39ca8a8a56b9454b52368ec90ce61/jetified-kodein-di-framework-android-core-5.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.preference:preference:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/8151158b171cf028766fa0e23fa2906e/preference-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/015cbd8dc35923f52d9d83889e4a811d/navigation-ui-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/14490a71ceaaef5310753ce39048f172/navigation-ui-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/622b4e353df41d296bf6b97d132cbcc0/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/204c0306ad4eb60e966eccf90938bb73/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/3f0d97851624caf870108ac49d77b448/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/9773074054ca9902d034b9c73e68e6ce/navigation-fragment-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/3e553299816cb48672f16080aa063244/jetified-core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/davesong/.gradle/caches/transforms-2/files-2.1/feab06479612330cdc230fa94c1bcb63/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/davesong/.gradle/caches/transforms-2/files-2.1/e6a418dcaeafc9e4df58f8b77dca45b5/room-runtime-2.1.0-alpha01/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/19f5402f08d0b4e5abc44a4c52cd3097/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/ccdbba0b4499fc69d1cb649ab3293cae/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/852aae36c62e4200c877b3d2b09ede43/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/1456342648f3dbc52be8b0c94ebcbd6a/jetified-threetenabp-1.1.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/6446a95137f659f9e2eb5ce893a47a89/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [com.xwray:groupie:2.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/55b048f455bcc1fa23e2f3ad2b30442d/jetified-groupie-2.1.0/AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/2c40c4fea01f646dfcb37121dd176392/jetified-play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/9d8b3d65362b74848a0255ae174b844a/navigation-runtime-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/4399d01330091e528a04f5f9972fa183/navigation-common-ktx-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/f1666a101e29a9d09aff8bd4d5f2ad56/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/df7a66e2d928b12c941c1920383e8c6d/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d6860fc729670eba451a86c91a40202d/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/fb195f638705de316bc801c132526140/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/05d1b49c87fb40ea2f208d593d33e7ab/navigation-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/0c63c41ced7e3154c35320d405d82770/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/409f04d71a2ff448d89b23a10fca6bfa/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/fd010da91157f01aa241ee37350662d5/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/e17e6f959877afb1d76fe1a3989ab6e3/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/a38c9dbf64780ba1fff6c9fd72f4a479/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d491c5758b7d1d9d348d6ab276533ca9/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/6f79c8e666812a325961622d6bb23144/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/628004e6fa338944619391ed7dfb146f/fragment-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/9ad1c1b78689f73c805800cbff3e772c/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/c526c970fd8e65407bd0848acc494d33/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/6382ba726f569563c53d6ae6c776140e/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/b10f80fa2a27072768078357fb280ac8/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/fccbeb62367d8094a567164da6d52393/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/b0dfcf74deea9d96e6511a898c4e9934/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/56666a58dabe69e1cafd50bebcf0a5af/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/df6c86305206e5864c91b184330e9c1e/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/a3fa3e5ea0db4d7386167f1768633b39/navigation-common-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/5780ddbea735039b5bb520c159a6e28d/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/edea62cf746bf194be23b2abe99c9302/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/9df3ea7765fb357b492ccb2ce677070a/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/a490c3a88e54f517ef24269ba1b4feaa/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d54d1d52f4245d8797d2d42896443524/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d593a232548f8d19370aa204c3b9845c/sqlite-framework-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/004a5c3bba20797c8dc7c7b8538013b1/sqlite-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/0d98f807f0876069703be2869e451f78/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/1c6fff4ce92fdede42fcb7a5fa464ef9/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/15d8cab7eb0d4eacee91039aba1d6395/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/491d182edd5704aa5460274354ce3a96/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/7ce3700c24ca3be1d75371d4038e1865/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/ccd77282827c2475fdc78d2e945ca14c/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/2337be55b9475b18b802a0bce6111450/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/965bf6f4592269dd8643527487757717/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/f344ab6ab352fd399fef511405c90e17/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/6cb56c865bfdcc5fb1b45b0b2ee5a87a/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/5101944aaa7b8826d00016bb62fab8b6/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/54e5c7dbe7b769e1dbbda8f3919fcaf8/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/51e27f14954f36503f22c3f1e7d7d606/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/5d061bdd6bd79b34a4e18d19e55c678c/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/36f12d0f1b010b439bf6cdecec2cdf48/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/fd44cb2b9a56b738daa7acd2afe960a6/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d9316adf4ac723e88f681b36ea7a57c1/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/622b4e353df41d296bf6b97d132cbcc0/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/622b4e353df41d296bf6b97d132cbcc0/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/davesong/.gradle/caches/transforms-2/files-2.1/feab06479612330cdc230fa94c1bcb63/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/davesong/.gradle/caches/transforms-2/files-2.1/feab06479612330cdc230fa94c1bcb63/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/davesong/.gradle/caches/transforms-2/files-2.1/e6a418dcaeafc9e4df58f8b77dca45b5/room-runtime-2.1.0-alpha01/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/davesong/.gradle/caches/transforms-2/files-2.1/e6a418dcaeafc9e4df58f8b77dca45b5/room-runtime-2.1.0-alpha01/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/ccdbba0b4499fc69d1cb649ab3293cae/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/ccdbba0b4499fc69d1cb649ab3293cae/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/1456342648f3dbc52be8b0c94ebcbd6a/jetified-threetenabp-1.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/1456342648f3dbc52be8b0c94ebcbd6a/jetified-threetenabp-1.1.0/AndroidManifest.xml:7:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/6446a95137f659f9e2eb5ce893a47a89/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/6446a95137f659f9e2eb5ce893a47a89/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.xwray:groupie:2.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/55b048f455bcc1fa23e2f3ad2b30442d/jetified-groupie-2.1.0/AndroidManifest.xml:11:5-12:19
+MERGED from [com.xwray:groupie:2.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/55b048f455bcc1fa23e2f3ad2b30442d/jetified-groupie-2.1.0/AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/2c40c4fea01f646dfcb37121dd176392/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/2c40c4fea01f646dfcb37121dd176392/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/fd010da91157f01aa241ee37350662d5/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/fd010da91157f01aa241ee37350662d5/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/e17e6f959877afb1d76fe1a3989ab6e3/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/e17e6f959877afb1d76fe1a3989ab6e3/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/a38c9dbf64780ba1fff6c9fd72f4a479/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/a38c9dbf64780ba1fff6c9fd72f4a479/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d491c5758b7d1d9d348d6ab276533ca9/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d491c5758b7d1d9d348d6ab276533ca9/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d54d1d52f4245d8797d2d42896443524/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d54d1d52f4245d8797d2d42896443524/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/7ce3700c24ca3be1d75371d4038e1865/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/7ce3700c24ca3be1d75371d4038e1865/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/6cb56c865bfdcc5fb1b45b0b2ee5a87a/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/6cb56c865bfdcc5fb1b45b0b2ee5a87a/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/51e27f14954f36503f22c3f1e7d7d606/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/51e27f14954f36503f22c3f1e7d7d606/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d54d1d52f4245d8797d2d42896443524/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.forecastmvvm.UI.MainActivity
+ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:12:19-50
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml
+INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml
+MERGED from [com.xwray:groupie-kotlin-android-extensions:2.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/5a3cc31b9aa53dfa7d43b7be839942fe/jetified-groupie-kotlin-android-extensions-2.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.xwray:groupie-kotlin-android-extensions:2.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/5a3cc31b9aa53dfa7d43b7be839942fe/jetified-groupie-kotlin-android-extensions-2.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [org.kodein.di:kodein-di-framework-android-x:5.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/ec0398c18fa45a1886ba8591967ca6d0/jetified-kodein-di-framework-android-x-5.2.0/AndroidManifest.xml:5:5-44
+MERGED from [org.kodein.di:kodein-di-framework-android-x:5.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/ec0398c18fa45a1886ba8591967ca6d0/jetified-kodein-di-framework-android-x-5.2.0/AndroidManifest.xml:5:5-44
+MERGED from [org.kodein.di:kodein-di-framework-android-core:5.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/28b39ca8a8a56b9454b52368ec90ce61/jetified-kodein-di-framework-android-core-5.2.0/AndroidManifest.xml:5:5-44
+MERGED from [org.kodein.di:kodein-di-framework-android-core:5.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/28b39ca8a8a56b9454b52368ec90ce61/jetified-kodein-di-framework-android-core-5.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.preference:preference:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/8151158b171cf028766fa0e23fa2906e/preference-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/8151158b171cf028766fa0e23fa2906e/preference-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/015cbd8dc35923f52d9d83889e4a811d/navigation-ui-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui-ktx:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/015cbd8dc35923f52d9d83889e4a811d/navigation-ui-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/14490a71ceaaef5310753ce39048f172/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/14490a71ceaaef5310753ce39048f172/navigation-ui-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/622b4e353df41d296bf6b97d132cbcc0/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/622b4e353df41d296bf6b97d132cbcc0/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/204c0306ad4eb60e966eccf90938bb73/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/204c0306ad4eb60e966eccf90938bb73/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/3f0d97851624caf870108ac49d77b448/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/3f0d97851624caf870108ac49d77b448/navigation-fragment-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/9773074054ca9902d034b9c73e68e6ce/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/9773074054ca9902d034b9c73e68e6ce/navigation-fragment-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/3e553299816cb48672f16080aa063244/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/3e553299816cb48672f16080aa063244/jetified-core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/davesong/.gradle/caches/transforms-2/files-2.1/feab06479612330cdc230fa94c1bcb63/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/davesong/.gradle/caches/transforms-2/files-2.1/feab06479612330cdc230fa94c1bcb63/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/davesong/.gradle/caches/transforms-2/files-2.1/e6a418dcaeafc9e4df58f8b77dca45b5/room-runtime-2.1.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/davesong/.gradle/caches/transforms-2/files-2.1/e6a418dcaeafc9e4df58f8b77dca45b5/room-runtime-2.1.0-alpha01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/19f5402f08d0b4e5abc44a4c52cd3097/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/19f5402f08d0b4e5abc44a4c52cd3097/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/ccdbba0b4499fc69d1cb649ab3293cae/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/ccdbba0b4499fc69d1cb649ab3293cae/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/852aae36c62e4200c877b3d2b09ede43/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/852aae36c62e4200c877b3d2b09ede43/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/1456342648f3dbc52be8b0c94ebcbd6a/jetified-threetenabp-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton.threetenabp:threetenabp:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/1456342648f3dbc52be8b0c94ebcbd6a/jetified-threetenabp-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/6446a95137f659f9e2eb5ce893a47a89/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/6446a95137f659f9e2eb5ce893a47a89/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.xwray:groupie:2.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/55b048f455bcc1fa23e2f3ad2b30442d/jetified-groupie-2.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.xwray:groupie:2.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/55b048f455bcc1fa23e2f3ad2b30442d/jetified-groupie-2.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/2c40c4fea01f646dfcb37121dd176392/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/2c40c4fea01f646dfcb37121dd176392/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/9d8b3d65362b74848a0255ae174b844a/navigation-runtime-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/9d8b3d65362b74848a0255ae174b844a/navigation-runtime-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/4399d01330091e528a04f5f9972fa183/navigation-common-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/4399d01330091e528a04f5f9972fa183/navigation-common-ktx-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/f1666a101e29a9d09aff8bd4d5f2ad56/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/f1666a101e29a9d09aff8bd4d5f2ad56/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/df7a66e2d928b12c941c1920383e8c6d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/df7a66e2d928b12c941c1920383e8c6d/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d6860fc729670eba451a86c91a40202d/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d6860fc729670eba451a86c91a40202d/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/fb195f638705de316bc801c132526140/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/fb195f638705de316bc801c132526140/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/05d1b49c87fb40ea2f208d593d33e7ab/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/05d1b49c87fb40ea2f208d593d33e7ab/navigation-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/0c63c41ced7e3154c35320d405d82770/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/0c63c41ced7e3154c35320d405d82770/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/409f04d71a2ff448d89b23a10fca6bfa/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/409f04d71a2ff448d89b23a10fca6bfa/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/fd010da91157f01aa241ee37350662d5/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/fd010da91157f01aa241ee37350662d5/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/e17e6f959877afb1d76fe1a3989ab6e3/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/e17e6f959877afb1d76fe1a3989ab6e3/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/a38c9dbf64780ba1fff6c9fd72f4a479/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/a38c9dbf64780ba1fff6c9fd72f4a479/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d491c5758b7d1d9d348d6ab276533ca9/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d491c5758b7d1d9d348d6ab276533ca9/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/6f79c8e666812a325961622d6bb23144/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/6f79c8e666812a325961622d6bb23144/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/628004e6fa338944619391ed7dfb146f/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/628004e6fa338944619391ed7dfb146f/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/9ad1c1b78689f73c805800cbff3e772c/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/9ad1c1b78689f73c805800cbff3e772c/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/c526c970fd8e65407bd0848acc494d33/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/c526c970fd8e65407bd0848acc494d33/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/6382ba726f569563c53d6ae6c776140e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/6382ba726f569563c53d6ae6c776140e/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/b10f80fa2a27072768078357fb280ac8/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/b10f80fa2a27072768078357fb280ac8/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/fccbeb62367d8094a567164da6d52393/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/fccbeb62367d8094a567164da6d52393/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/b0dfcf74deea9d96e6511a898c4e9934/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/b0dfcf74deea9d96e6511a898c4e9934/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/56666a58dabe69e1cafd50bebcf0a5af/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/56666a58dabe69e1cafd50bebcf0a5af/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/df6c86305206e5864c91b184330e9c1e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/df6c86305206e5864c91b184330e9c1e/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/a3fa3e5ea0db4d7386167f1768633b39/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/a3fa3e5ea0db4d7386167f1768633b39/navigation-common-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/5780ddbea735039b5bb520c159a6e28d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/5780ddbea735039b5bb520c159a6e28d/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/edea62cf746bf194be23b2abe99c9302/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/edea62cf746bf194be23b2abe99c9302/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/9df3ea7765fb357b492ccb2ce677070a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/9df3ea7765fb357b492ccb2ce677070a/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/a490c3a88e54f517ef24269ba1b4feaa/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/a490c3a88e54f517ef24269ba1b4feaa/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d54d1d52f4245d8797d2d42896443524/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d54d1d52f4245d8797d2d42896443524/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d593a232548f8d19370aa204c3b9845c/sqlite-framework-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d593a232548f8d19370aa204c3b9845c/sqlite-framework-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/004a5c3bba20797c8dc7c7b8538013b1/sqlite-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/004a5c3bba20797c8dc7c7b8538013b1/sqlite-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/0d98f807f0876069703be2869e451f78/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/0d98f807f0876069703be2869e451f78/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/1c6fff4ce92fdede42fcb7a5fa464ef9/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/1c6fff4ce92fdede42fcb7a5fa464ef9/jetified-lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/15d8cab7eb0d4eacee91039aba1d6395/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/15d8cab7eb0d4eacee91039aba1d6395/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/491d182edd5704aa5460274354ce3a96/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/491d182edd5704aa5460274354ce3a96/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/7ce3700c24ca3be1d75371d4038e1865/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/7ce3700c24ca3be1d75371d4038e1865/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/ccd77282827c2475fdc78d2e945ca14c/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/ccd77282827c2475fdc78d2e945ca14c/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/2337be55b9475b18b802a0bce6111450/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/2337be55b9475b18b802a0bce6111450/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/965bf6f4592269dd8643527487757717/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/965bf6f4592269dd8643527487757717/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/f344ab6ab352fd399fef511405c90e17/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/f344ab6ab352fd399fef511405c90e17/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/6cb56c865bfdcc5fb1b45b0b2ee5a87a/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/6cb56c865bfdcc5fb1b45b0b2ee5a87a/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/5101944aaa7b8826d00016bb62fab8b6/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/5101944aaa7b8826d00016bb62fab8b6/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/54e5c7dbe7b769e1dbbda8f3919fcaf8/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/54e5c7dbe7b769e1dbbda8f3919fcaf8/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/51e27f14954f36503f22c3f1e7d7d606/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/51e27f14954f36503f22c3f1e7d7d606/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/5d061bdd6bd79b34a4e18d19e55c678c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/5d061bdd6bd79b34a4e18d19e55c678c/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/36f12d0f1b010b439bf6cdecec2cdf48/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/36f12d0f1b010b439bf6cdecec2cdf48/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/fd44cb2b9a56b738daa7acd2afe960a6/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/fd44cb2b9a56b738daa7acd2afe960a6/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d9316adf4ac723e88f681b36ea7a57c1/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d9316adf4ac723e88f681b36ea7a57c1/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml
+INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml
+		ADDED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/davesong/AndroidStudioProjects/ForecastMVVM/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/davesong/.gradle/caches/transforms-2/files-2.1/e6a418dcaeafc9e4df58f8b77dca45b5/room-runtime-2.1.0-alpha01/AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/davesong/.gradle/caches/transforms-2/files-2.1/e6a418dcaeafc9e4df58f8b77dca45b5/room-runtime-2.1.0-alpha01/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.room:room-runtime:2.1.0-alpha01] /Users/davesong/.gradle/caches/transforms-2/files-2.1/e6a418dcaeafc9e4df58f8b77dca45b5/room-runtime-2.1.0-alpha01/AndroidManifest.xml:24:13-74
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/fd010da91157f01aa241ee37350662d5/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/fd010da91157f01aa241ee37350662d5/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/fd010da91157f01aa241ee37350662d5/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/fd010da91157f01aa241ee37350662d5/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d491c5758b7d1d9d348d6ab276533ca9/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d491c5758b7d1d9d348d6ab276533ca9/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/d491c5758b7d1d9d348d6ab276533ca9/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/7ce3700c24ca3be1d75371d4038e1865/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
+	android:authorities
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/7ce3700c24ca3be1d75371d4038e1865/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
+	android:multiprocess
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/7ce3700c24ca3be1d75371d4038e1865/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
+	android:exported
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/7ce3700c24ca3be1d75371d4038e1865/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /Users/davesong/.gradle/caches/transforms-2/files-2.1/7ce3700c24ca3be1d75371d4038e1865/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79
